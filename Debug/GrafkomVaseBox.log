@@ -1,0 +1,44 @@
+﻿  vase_tornado.cpp
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(9,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(10,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(40,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(389,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(391,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(465,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(536,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(537,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(543,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(544,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(594,151): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(596,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(598,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(600,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(606,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(643,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(644,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(646,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(647,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(656,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(661,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(663,1): warning C4091: '': ignored on left of 'int' when no variable is declared
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(669,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Tornado.h(677,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(92,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(93,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(94,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(95,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(96,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(97,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(98,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(99,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(111,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(112,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(116,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(117,134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(146,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(150,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(151,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(160,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(164,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\vase_tornado.cpp(166,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  GrafkomVaseBox.vcxproj -> C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\GrafkomVaseBox\Debug\GrafkomVaseBox.exe
